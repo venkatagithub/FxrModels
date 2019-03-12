@@ -7,7 +7,7 @@ import ca.cibcwb.mit.messaging.properties.MitSessionConfiguration;
 public class SolaceConfig {
 
 
-	private String host;
+	private String host; 
 	private String vpn;
 	private String user;
 	private String password;
